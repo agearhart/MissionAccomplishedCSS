@@ -1,5 +1,3 @@
-<link href="MissionAccomplished.css" rel="stylesheet"></link>
-
 # Mission: Mission Title
 ## The Mission
 An introduction to the story of the mission

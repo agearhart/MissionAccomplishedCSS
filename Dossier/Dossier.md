@@ -1,4 +1,4 @@
-# Mission: Mission Title {.font-color: red;}
+# Mission: Mission Title
 ## The Mission
 An introduction to the story of the mission
 

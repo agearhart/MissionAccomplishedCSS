@@ -1,10 +1,4 @@
----
-output: 
-  html_document:
-     css: MissionAccomplished.css
-     self_contained: no
----
-# Mission: Mission Title
+# Mission: Mission Title {.font-color: red;}
 ## The Mission
 An introduction to the story of the mission
 
